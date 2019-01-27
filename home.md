@@ -16,3 +16,5 @@
 
 ### The Middle
 [Cloud Castle](home/cloud-castle)
+Party in (can't remember the city name)
+[Ice Cave](home/ice-cave)
