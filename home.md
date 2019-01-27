@@ -17,5 +17,6 @@
 ### The Middle
 [Cloud Castle](home/cloud-castle)
 Party in (can't remember the city name)
+City with the graveyard and the soldier's quarters and the rude guard
 [Everlund](/home/everlund)
 [Ice Cave](home/ice-cave)
