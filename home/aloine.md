@@ -1,4 +1,4 @@
-<!-- TITLE: Aloine -->
+![Aloine](/uploads/aloine.jpg "Aloine")<!-- TITLE: Aloine -->
 <!-- SUBTITLE: The Animal-Lover -->
 
 ![Aloine](/uploads/aloine.jpg "Aloine")
