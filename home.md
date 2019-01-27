@@ -17,4 +17,5 @@
 ### The Middle
 [Cloud Castle](home/cloud-castle)
 Party in (can't remember the city name)
+[Everlund](/home/everlund)
 [Ice Cave](home/ice-cave)
