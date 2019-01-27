@@ -10,3 +10,8 @@
 [Steve](home/steve)
 
 ## Story
+### The Beginning
+[Ruins and Boulders](home/ruins)
+
+### The Middle
+[Cloud Castle](home/cloud-castle)
