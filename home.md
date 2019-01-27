@@ -1,5 +1,12 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: D&D Chez Stickney -->
+<!-- SUBTITLE: Saving the Forgotten Realms One Stumble at a Time -->
 
-# D&D Campaign
-Home of the 2+ year campaign run by Chris
+## Characters
+[Aloine](home/aloine)
+[Lia](home/lia)
+[Largo](home/largo)
+[Orel](home/orel)
+[Savien](home/savien)
+[Steve](home/steve)
+
+## Story
