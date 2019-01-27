@@ -12,6 +12,7 @@
 ## Story
 ### The Beginning
 [Ruins and Boulders](home/ruins)
+[The Cave](home/cave)
 
 ### The Middle
 [Cloud Castle](home/cloud-castle)
