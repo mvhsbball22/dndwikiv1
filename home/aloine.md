@@ -1,5 +1,8 @@
-![Aloine](/uploads/aloine.jpg "Aloine")<!-- TITLE: Aloine -->
+<!-- TITLE: Aloine -->
 <!-- SUBTITLE: The Animal-Lover -->
 
-![Aloine](/uploads/aloine.jpg "Aloine")
 ## Aloine
+A hermit from the woods, Aloine and her beloved Hermes strike from the shadows.
+
+![Aloine](/uploads/aloine.jpg "Aloine")
+
