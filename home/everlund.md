@@ -12,3 +12,9 @@ Part of the group followed the wetprints into the basement and found two rooms: 
 The group met up and took the nimblewright in garbage can to the docks.  Once the group discovered the nimblewright was completed destroyed, [Orel](/home/orel) mended it to the best of his ability. The nimblewright-crafter translated a conversation for the group. The group headed back to the mansion and found it swarming with police.  Brazenly, [Savien](/home/savien) and [Orel](/home/orel) decided a truthful approach was best - it wasn't.  The lieutenant suspected the group's involvement and paraded them to the local jail dungeon.
 
 After interrogation, the local authorities exiled the entire group from Everlund.
+
+
+
+
+
+![Nimblewright Detector](/uploads/nimblewright-detector.png "Nimblewright Detector")
