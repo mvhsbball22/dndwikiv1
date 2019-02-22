@@ -19,7 +19,7 @@
 [Party in Waterdeep](home/waterdeep)
 [Yartar](home/yartar)
 [Everlund](/home/everlund)
-[Ice Cave](home/ice-cave)
+[The Eye of the All-Father](home/ice-cave)
 
 ## People and Places
 [Harshnag](/people/harshnag)
