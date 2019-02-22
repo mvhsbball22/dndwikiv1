@@ -17,7 +17,7 @@
 ### The Middle
 [Prince Olthanas's Cloud Castle](home/cloud-castle)
 [Party in Waterdeep](home/waterdeep)
-City with the graveyard and the soldier's quarters and the rude guard
+[Yartar](home/yartar)
 [Everlund](/home/everlund)
 [Ice Cave](home/ice-cave)
 
