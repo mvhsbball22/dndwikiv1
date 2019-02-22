@@ -32,5 +32,7 @@
 [The Cassalanters](/people/cassalanters)
 [Balakar](/people/balakar)
 
+[The Giants](people/the_giants)
+
 
 
