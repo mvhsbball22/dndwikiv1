@@ -4,6 +4,8 @@
 ### Entry
 After a long journey from Everlund, the group led by [Harshnag](/people/harshnag) arrived at a cave.  Upon entry, they were confronted by a group of people - who, unfortunately, did not speak common, giant, or abyssal.
 
+![Eye Of The All Father](/uploads/eye-of-the-all-father.jpg "Eye Of The All Father")
+
 ### Fight with the welcome crew
 
 ### The split
