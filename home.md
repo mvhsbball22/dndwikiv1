@@ -39,6 +39,8 @@
 [The Giants](people/the_giants)
 [The Black Earth](people/black_earth)
 
+[Hoar](people/hoar)
+
 
 
 
