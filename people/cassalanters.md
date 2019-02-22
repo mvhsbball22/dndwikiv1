@@ -1,5 +1,5 @@
-<!-- TITLE: Cassalanters -->
-<!-- SUBTITLE: A quick summary of Cassalanters -->
+<!-- TITLE: The Cassalanters -->
+<!-- SUBTITLE: A quick summary of the Cassalanters -->
 
 The Cassalanter noble house of Waterdeep is among one of the richest families within the city, and by extension, one of the richest in the entire region of the Sword Coast. 
 They made their fortune in banking, money-lending, real estate, and rumor-mongering for the highest payer. As of this generation, Ohrl Cassalanter has made philanthropy a larger focus of the Cassalanter empire. 
