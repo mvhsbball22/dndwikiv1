@@ -17,6 +17,7 @@
 ### The Middle
 [Prince Olthanas's Cloud Castle](home/cloud-castle)
 [Party in Waterdeep](home/waterdeep)
+[Red Larch](home/red_larch)
 [Yartar](home/yartar)
 [Everlund](/home/everlund)
 [The Eye of the All-Father](home/ice-cave)
