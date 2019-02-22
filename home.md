@@ -21,5 +21,16 @@ City with the graveyard and the soldier's quarters and the rude guard
 [Everlund](/home/everlund)
 [Ice Cave](home/ice-cave)
 
-## Important People
+## People and Places
 [Harshnag](/people/harshnag)
+[Zi Liang](/people/zi_liang) 
+[Nightscale](/people/nightscale)
+[Snurrevin](/people/snurrevin)
+[Bibble](/people/bibble)
+[Frita](/people/frita)
+[The Blackstaff Vajra](/people/vajra)
+[The Cassalanters](/people/cassalanters)
+[Balakar](/people/balakar)
+
+[Prince Olthanas's Flying Castle](/places/cloud_castle)
+
