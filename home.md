@@ -31,6 +31,7 @@
 [The Blackstaff Vajra](/people/vajra)
 [The Cassalanters](/people/cassalanters)
 [Balakar](/people/balakar)
+[Krowen Valharrow](/people/Krowen)
 
 [The Giants](people/the_giants)
 
