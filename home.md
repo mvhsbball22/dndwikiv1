@@ -30,7 +30,7 @@
 [Bibble](/people/bibble)
 [Frita](/people/frita)
 [The Blackstaff Vajra](/people/vajra)
-[The Cassalanters](/people/the_cassalanters)
+[The Cassalanters](/people/cassalanters)
 [Balakar](/people/balakar)
 [Krowen Valharrow](/people/Krowen)
 [Claugiyliamatar](people/claugiyliamatar)
