@@ -34,6 +34,7 @@
 [Balakar](/people/balakar)
 [Krowen Valharrow](/people/Krowen)
 [Claugiyliamatar](people/claugiyliamatar)
+[Felgolos](people/felgolos)
 
 [The Giants](people/the_giants)
 [The Black Earth](people/black_earth)
