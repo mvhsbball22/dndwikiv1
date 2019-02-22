@@ -15,7 +15,7 @@
 [The Cave](home/cave)
 
 ### The Middle
-[Cloud Castle](home/cloud-castle)
+[Prince Olthanas's Cloud Castle](home/cloud-castle)
 Party in (can't remember the city name)
 City with the graveyard and the soldier's quarters and the rude guard
 [Everlund](/home/everlund)
@@ -32,5 +32,5 @@ City with the graveyard and the soldier's quarters and the rude guard
 [The Cassalanters](/people/cassalanters)
 [Balakar](/people/balakar)
 
-[Prince Olthanas's Flying Castle](/places/cloud_castle)
+
 
