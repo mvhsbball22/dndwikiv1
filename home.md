@@ -32,8 +32,11 @@
 [The Cassalanters](/people/cassalanters)
 [Balakar](/people/balakar)
 [Krowen Valharrow](/people/Krowen)
+[Claugiyliamatar](people/claugiyliamatar)
 
 [The Giants](people/the_giants)
+[The Black Earth](people/black_earth)
+
 
 
 
