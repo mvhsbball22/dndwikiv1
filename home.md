@@ -33,13 +33,14 @@
 [The Cassalanters](/people/cassalanters)
 [Balakar](/people/balakar)
 [Krowen Valharrow](/people/Krowen)
-[Claugiyliamatar](people/claugiyliamatar)
-[Felgolos](people/felgolos)
+[Claugiyliamatar](/people/claugiyliamatar)
+[Felgolos](/people/felgolos)
+[Silja](/people/silja)
 
-[The Giants](people/the_giants)
-[The Black Earth](people/black_earth)
+[The Giants](/people/the_giants)
+[The Black Earth](/people/black_earth)
 
-[Hoar](people/hoar)
+[Hoar](/people/hoar)
 
 
 
