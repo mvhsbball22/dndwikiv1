@@ -20,3 +20,10 @@ Further exploration reveals an opening to the side of the mountain housing the c
 
 #### Savien, Lia, and Aloine (and Hermes)
 Meanwhile, Savien, Lia, and Aloine step into a tunnel, unwittingly triggering a giant boulder to crash through the room.  
+
+### Short reunion
+The group meets back together in the main room -- and they are shortly joined by the villagers, who are marching into the dungeon while chanting in a language that nobody understands.  Orel recognizes the procession as religion in nature and immediately takes a lead role.  A disagreement erupts, with [Harshnag](/people/harshnag) vehemently forbidding any of the villagers from staying in the halls, which seem to be sacred to him.  Orel, Largo and Steve accompany the villagers to the entry hallway and proceed to feast on the Villager's goat while Harshnag, Lia, Aloine and Savien turn in next to the fire in the dining hall. 
+
+In the entryway, a leadership challenge erupts between Steve and Orel -- Steve makes a snowball and Orel smacks him with his (???).  Largo is impressed with the cooking of a young villager and they make a connection over the food.  Largo cleverly expresses his satisfaction enthusiastically with hand motions and high fives.
+
+
