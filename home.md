@@ -39,6 +39,7 @@
 
 [The Giants](/people/the_giants)
 [The Black Earth](/people/black_earth)
+[The Uthgardt](people/uthgardt)
 
 [Hoar](/people/hoar)
 
