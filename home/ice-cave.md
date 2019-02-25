@@ -8,6 +8,10 @@ After a long journey from Everlund, the group led by [Harshnag](/people/harshnag
 
 ### Fight with the welcome crew
 
+The group walks into the cave and were immediately greeted by several people, none of whom speak a language that our heroes can understand, despite Orel running through a litany of options.  Largo puts forward a very peaceful overture by sitting down and seeming as non-threatening as possible.  Before his butt could hit the ground (which, remember, is not far removed given his short statute), Orel and Savien strike the apparent leader.  A short scuffle ends with Orel holding aloft the amulet previously worn by his downed foe, and the remaining Uthgardt people immediately consider Orel their leader.  
+
+With the meager resistance overcome, the group heads deeper into the mountain and discovers a room featuring large statues, and exits to each of the cardinal directions.
+
 ### The split
 Aloine, Lia, and Savien head to the north while Largo, Steve, and Orel head through a fissure to the West.
 
