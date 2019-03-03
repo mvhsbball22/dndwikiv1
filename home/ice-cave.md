@@ -63,3 +63,8 @@ As the frost resolves into a misty thundercloud, most of the group steps through
 	- How can we find a magic conch of the storm giant king?
 
 As the last light winks out, the group exits the portal and returns to the statue room.  Silja draws a map of known giant battles pointing out one particular battle that , likely sources for finding magic conchs.
+
+### Exit
+As the group leaves the cave, they are confronted by a group of reptilian, leather-bound figures.  One steps forward ominously and says: 
+
+`The great dragon Kloth offers you this vessel to cross the dangerous terrain. We will crew the boat - if you manage to quell the giant threat, return to Kloth's hidden veil and you will be greatly rewarded.`
