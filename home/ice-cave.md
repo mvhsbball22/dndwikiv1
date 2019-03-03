@@ -32,4 +32,8 @@ In the entryway, a leadership challenge erupts between Steve and Orel -- Steve m
 
 A giant centipede crashes through the wall and consumes a member of the local tribe in one bite while sailing toward the opposite wall.  Despite their best efforts, the combination of the remaining Uthgardt and Orel, Steve and Largo cannot stop the flying centipede from crashing through the walls and consuming another tribesman before it disappears into the rocks for good.  Largo, Orel and Steve help the locals pack their tent hurriedly, bid them adieu as they head into the cold, and head back into the feast room to sleep with their comrades.
 
+### Back into the crack
+While the revelers were still sleeping, Silja asks Steve to sneak into the spider caves to retrieve her pack.  Based on his earlier experience with the ice spider queen, Steve demurs, opting instead to muster the entire group to head back into the cave complex.  It doesn't take too much convincing - upon waking, everyone gears up, heads back through the throne room, and files one-by-one into the crack that exudes frost.  
+
+Steve wraps a rope around his midsection and darts into the large chamber where Silja indicates her pack has been stashed. 
 
