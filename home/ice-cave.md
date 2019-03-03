@@ -33,7 +33,33 @@ In the entryway, a leadership challenge erupts between Steve and Orel -- Steve m
 A giant centipede crashes through the wall and consumes a member of the local tribe in one bite while sailing toward the opposite wall.  Despite their best efforts, the combination of the remaining Uthgardt and Orel, Steve and Largo cannot stop the flying centipede from crashing through the walls and consuming another tribesman before it disappears into the rocks for good.  Largo, Orel and Steve help the locals pack their tent hurriedly, bid them adieu as they head into the cold, and head back into the feast room to sleep with their comrades.
 
 ### Back into the crack
-While the revelers were still sleeping, Silja asks Steve to sneak into the spider caves to retrieve her pack.  Based on his earlier experience with the ice spider queen, Steve demurs, opting instead to muster the entire group to head back into the cave complex.  It doesn't take too much convincing - upon waking, everyone gears up, heads back through the throne room, and files one-by-one into the crack that exudes frost.  
+While the revelers were still sleeping, Silja asks Steve to sneak into the spider caves to retrieve her pack, and displaying his usual ruthlessness, makes her agree to relinquish her warhammer in exchange for the group's aid.  Based on his earlier experience with the ice spider queen, Steve demurs, opting instead to muster the entire group to head back into the cave complex.  It doesn't take too much convincing - upon waking, everyone gears up, heads back through the throne room, and files one-by-one into the crack that exudes frost.  
 
-Steve wraps a rope around his midsection and darts into the large chamber where Silja indicates her pack has been stashed. 
+Steve wraps a rope around his midsection, hands one end to and darts into the large chamber where Silja indicates her pack has been stashed. He tip-toes his way deep into the room before drawing the attention of the spider occupants.  As their heads turn toward the halfling, he madly dashes to grab the pack and return to his friends.  Small spiders swarm from the walls and ceiling, biting Steve and slowing him down.  The group turns around and manages to execute a more-or-less orderly retreat -- as much as that can be done while being harried by spiderlings nipping at their skin.
 
+Once they reach the safety of the statue room, Silja grabs her large book, an apparent necessity to translate the runic giant language.  Steve pockets the remainder of the pack, including some halfling rations.
+
+### Statue room
+Silja translates for us - the runs on the portal are the type of giants: frost giant, storm giant, etc.
+The group puts their heads together, trying to break the code of how to get the portal to open. After several failed attempts, Harshnag picks up the axe held by the front giant statue and touches it to the rune of the same name.  As soon as the axe comes into contact with the wall, the frosty portal begins to change.
+
+### Frosty portal
+As the frost resolves into a misty thundercloud, most of the group steps through, leaving Aloine and Silja behind in the statue room.  There are several figures with lights and a dead giant lying on an inscription.
+
+- Body in the room
+- Questions to the oracle thing
+- Confrontation between Savien and Harshnag
+- Questions:
+	- From Harshnag: Where's my friend?
+		- Unknown, shielded from their eyes
+	- Why?
+		- ()
+	- What is the story is the breaking of the ordning?
+		- King was misled by his daughters
+		- More powerful giant lords had broken from King's court, willing to risk everything to ascend to the top
+		- Stop one to stop them all
+	- How do we find those responsible?
+		- Find a magic conch of the storm giant king that can be used to visit Hekaton's court
+	- How can we find a magic conch of the storm giant king?
+
+As the last light winks out, the group exits the portal and returns to the statue room.  Silja draws a map of known giant battles pointing out one particular battle that , likely sources for finding magic conchs.
