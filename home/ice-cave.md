@@ -69,4 +69,4 @@ As the last light winks out, the group exits the portal and returns to the statu
 ### Exit
 As the group leaves the cave, they are confronted by a group of reptilian, leather-bound figures.  One steps forward ominously and says: 
 
-`The great dragon Klauth offers you this vessel to cross the dangerous terrain. We will crew the boat - if you manage to quell the giant threat, return to Klauth's hidden veil and you will be greatly rewarded.`
+`The great dragon Klauth offers you this vessel to cross the dangerous terrain. We will crew the boat - if you manage to quell the giant threat, return to Klauth's hidden vale and you will be greatly rewarded.`
