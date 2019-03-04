@@ -50,12 +50,14 @@ As the frost resolves into a misty thundercloud, most of the group steps through
 - Questions to the oracle thing
 - Confrontation between Savien and Harshnag
 - Questions:
+- From Savian - Where is King Hekaton?
+	- Unknown, shielded from their eyes
 	- From Harshnag: Where's my friend?
-		- Unknown, shielded from their eyes
+		- captive of Sansuri
 	- Why?
 		- ()
 	- What is the story is the breaking of the ordning?
-		- King was misled by his daughters
+		- King was misled by his daughters (specifically Mirran and Nym, who the oracles claim coveted his throne; the only daughter you had previously been aware of is named Serissa - the youngest daughter/currently on the throne according the mage in Everlund)
 		- More powerful giant lords had broken from King's court, willing to risk everything to ascend to the top
 		- Stop one to stop them all
 	- How do we find those responsible?
@@ -67,4 +69,4 @@ As the last light winks out, the group exits the portal and returns to the statu
 ### Exit
 As the group leaves the cave, they are confronted by a group of reptilian, leather-bound figures.  One steps forward ominously and says: 
 
-`The great dragon Kloth offers you this vessel to cross the dangerous terrain. We will crew the boat - if you manage to quell the giant threat, return to Kloth's hidden veil and you will be greatly rewarded.`
+`The great dragon Klauth offers you this vessel to cross the dangerous terrain. We will crew the boat - if you manage to quell the giant threat, return to Klauth's hidden veil and you will be greatly rewarded.`
