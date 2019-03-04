@@ -63,7 +63,7 @@ As the frost resolves into a misty thundercloud, most of the group steps through
 	- How do we find those responsible?
 		- Find a magic conch of the storm giant king that can be used to visit Hekaton's court
 	- How can we find a magic conch of the storm giant king?
-		- Retrieve the relics of giant lords from various battle fields and return them to the temple
+		- Retrieve the relics of giant lords from various battlefields and return them to the temple
 		
 As the last light winks out, the group exits the portal and returns to the statue room.  Silja draws a map of known giant battles pointing out one particular battle that , likely sources for finding magic conchs.
 
