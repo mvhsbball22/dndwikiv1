@@ -10,3 +10,5 @@ This gives the crew time to search the burial mounds, but all they find is human
 When the sun rises, most of the ravens fly away, leaving two. 
 Steve tries to talk to one, and Orel helps by casting Tongues, so Steve can both speak and understand the raven language.
 
+## Morgur's Mound
+![Morgur Mound](/uploads/morgur-mound.jpg "Morgur Mound")
