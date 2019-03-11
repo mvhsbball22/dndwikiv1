@@ -43,6 +43,9 @@
 
 [Hoar](/people/hoar)
 
+## Information
+[Map of Ancient Battlegrounds](/info/battleground-map)
+
 
 
 
