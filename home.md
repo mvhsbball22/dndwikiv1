@@ -13,6 +13,7 @@
 ### The Beginning
 [Ruins and Boulders](home/ruins)
 [The Cave](home/cave)
+[Goldenfields](home/goldenfields)
 
 ### The Middle
 [Prince Olthanas's Cloud Castle](home/cloud-castle)
