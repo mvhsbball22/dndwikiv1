@@ -13,12 +13,19 @@
 ### The Beginning
 [Ruins and Boulders](home/ruins)
 [The Cave](home/cave)
+[Blasingdell](home/blasingdell)
+[The Stone Tooth](home/stonetooth)
+[Khundrukar](home/khundrukar)
 [Goldenfields](home/goldenfields)
+
 
 ### The Middle
 [Prince Olthanas's Cloud Castle](home/cloud-castle)
 [Party in Waterdeep](home/waterdeep)
 [Red Larch](home/red_larch)
+[Westbridge](home/westbridge)
+[Kryptgarten Forest](home/kryptgarten)
+[Triboar](home/triboar)
 [Yartar](home/yartar)
 [Everlund](/home/everlund)
 [The Eye of the All-Father](home/ice-cave)
