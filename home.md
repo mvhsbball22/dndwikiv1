@@ -31,6 +31,7 @@
 [The Eye of the All-Father](home/ice-cave)
 [The Airship](home/airship)
 [The Search for Giant Relics](home/relic-search)
+[Silverymoon](home/silverymoon)
 
 ## People and Places
 [Harshnag](/people/harshnag)
