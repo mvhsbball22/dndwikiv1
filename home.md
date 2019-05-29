@@ -8,6 +8,7 @@
 [Orel](home/orel)
 [Savien](home/savien)
 [Steve](home/steve)
+[Rath](home/rath)
 
 ## Story
 ### The Beginning
