@@ -5,6 +5,8 @@
 
 ![Hill Giant](/uploads/hill-giant.jpg "Hill Giant")
 
+## Chief Guh
+
 ![Chief Guh](/uploads/chief-guh-2.jpg "Hill Giant Chieftan")
 
 ![Chief Guh](/uploads/chief-guh-1.jpg "Hill Giant Chieftan")
