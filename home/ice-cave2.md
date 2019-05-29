@@ -9,15 +9,16 @@ Harshnag and Savien have a brief conversation about Rath, and his presence insid
 Savien agrees to this, and offers to wait outside the temple with Rath.
 The party begins unloading the relics and moving them into the inner sanctum where they disintegrate one-by-one as the oracle is consulted. 
 The information gathered is as follows:
-**Stone Giants : **Thane Calithica is a stone giant shaman. Travel southeast over lands high and low, cross the peaks to Deadstone Cleft. The conch you seek is in her possession. Of note: this is the giant that Lia and Orel recognize from Silverymoon.
 
-**Frost Giants: ** Jarl Storevald is a frost giant lord. Travel west to The Sea of Moving Ice. Find Svardborg. The conch is  on his icy throne. Of note, this is the conch that was though to be unprotected.
+**Stone Giants** Thane Calithica is a stone giant shaman. Travel southeast over lands high and low, cross the peaks to Deadstone Cleft. The conch you seek is in her possession. Of note: this is the giant that Lia and Orel recognize from Silverymoon.
 
-**Cloud Giants: ** Countess Sansuri is the cloud giant lord. Travel southeast to The Moors and look at the sky. Lin'Amal is the kingdom of the Cloud Giants, and the magical conch can be found in a chest within the it's highest spire. Of note: this is the giant who is thought to be holding Harshnag's friend Thelgalos (Felgalos?) captive.
+**Frost Giants** Jarl Storevald is a frost giant lord. Travel west to The Sea of Moving Ice. Find Svardborg. The conch is  on his icy throne. Of note, this is the conch that was though to be unprotected.
 
-**Hill Giants:  ** Chief Guh is the hill giant lord. Travel south over "The Tree Hill" and let the river be your guide. Den-Grudd Haug is the kingdom the the hill giants, and the conch can be found close to it's lord.
+**Cloud Giants**  Countess Sansuri is the cloud giant lord. Travel southeast to The Moors and look at the sky. Lin'Amal is the kingdom of the Cloud Giants, and the magical conch can be found in a chest within the it's highest spire. Of note: this is the giant who is thought to be holding Harshnag's friend Thelgalos (Felgalos?) captive.
 
-**Fire Giants: ** Duke Xalto is the lord of the fire giants. Travel east to the mountains of the Yak Folk, below the iron slag you will find the forge of the fire giant Duke Xalto, the conch you seek is within his quarters.  Of note: this is the person who Savien promised to defeat, a promise which he is bound to by a magical choker.
+**Hill Giants**  Chief Guh is the hill giant lord. Travel south over "The Tree Hill" and let the river be your guide. Den-Grudd Haug is the kingdom the the hill giants, and the conch can be found close to it's lord.
+
+**Fire Giants ** Duke Xalto is the lord of the fire giants. Travel east to the mountains of the Yak Folk, below the iron slag you will find the forge of the fire giant Duke Xalto, the conch you seek is within his quarters.  Of note: this is the person who Savien promised to defeat, a promise which he is bound to by a magical choker.
 
 Outside the temple, Savien questions Rath about his intentions, and it seems that the half-orc plans to stay with the group following his excommunication from his tribe.
 Rath was even willing to give up posession of the relic retrieved from Raven Rock, which was known to be sacred amongst his people. 
