@@ -18,7 +18,7 @@ The information gathered is as follows:
 
 **Hill Giants**  Chief Guh is the hill giant lord. Travel south over "The Tree Hill" and let the river be your guide. Den-Grudd Haug is the kingdom the the hill giants, and the conch can be found close to it's lord.
 
-**Fire Giants ** Duke Xalto is the lord of the fire giants. Travel east to the mountains of the Yak Folk, below the iron slag you will find the forge of the fire giant Duke Xalto, the conch you seek is within his quarters.  Of note: this is the person who Savien promised to defeat, a promise which he is bound to by a magical choker.
+**Fire Giants** Duke Xalto is the lord of the fire giants. Travel east to the mountains of the Yak Folk, below the iron slag you will find the forge of the fire giant Duke Xalto, the conch you seek is within his quarters.  Of note: this is the person who Savien promised to defeat, a promise which he is bound to by a magical choker.
 
 Outside the temple, Savien questions Rath about his intentions, and it seems that the half-orc plans to stay with the group following his excommunication from his tribe.
 Rath was even willing to give up posession of the relic retrieved from Raven Rock, which was known to be sacred amongst his people. 
