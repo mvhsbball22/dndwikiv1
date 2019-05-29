@@ -13,7 +13,7 @@
 
 ![Fire Giant](/uploads/fire-giant.jpg "Fire Giant")
 
-![Duke Zalto](/uploads/zalto.jpg "Fire Giant Warlord")
+![Duke Zalto](/uploads/zalto.png "Fire Giant Warlord")
 
 # Frost Giants
 
