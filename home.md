@@ -32,7 +32,7 @@
 [The Airship](home/airship)
 [The Search for Giant Relics](home/relic-search)
 [Silverymoon](home/silverymoon)
-
+[Return to the All-Father](home/ice-cave2)
 ## People and Places
 [Harshnag](/people/harshnag)
 [Zi Liang](/people/zi_liang) 
