@@ -1,4 +1,4 @@
 <!-- TITLE: Rath -->
-<!-- SUBTITLE: A quick summary of Rath -->
+A half-orc barbarian
 
-# Header
+# Rath
