@@ -44,6 +44,7 @@
 [The Blackstaff Vajra](/people/vajra)
 [The Cassalanters](/people/cassalanters)
 [Balakar](/people/balakar)
+[Iymrith](/people/iymrith)
 [Krowen Valharrow](/people/Krowen)
 [Claugiyliamatar](/people/claugiyliamatar)
 [Felgolos](/people/felgolos)
