@@ -34,6 +34,7 @@
 [The Search for Giant Relics](home/relic-search)
 [Silverymoon](home/silverymoon)
 [Return to the All-Father](home/ice-cave2)
+[Giants Fall](home/temple-battle)
 ## People and Places
 [Harshnag](/people/harshnag)
 [Zi Liang](/people/zi_liang) 
