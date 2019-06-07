@@ -44,7 +44,7 @@ Lia disappears under a massive chunk of granite as she flees from the temple, bu
 Rath and Largo clear the room with Harshnag's axe as the temple continues to fall around them.
 At this point, Savien, Harshnag and Iymrith remain in the temple.
 Savien refuses to watch Harshnag die without trying to help him however he can.
-Savien yells to Harshnag **"release her and drink your shrinking potion, we aren't going to die in here!" **
+Savien yells to Harshnag **"release her and drink your shrinking potion, we aren't going to die in here!"**
 With that said, Savien dashes accross the room, avoiding falling granite.
 As he reaches the giant, Harshnag releases Iymrith who strikes the giant with a massive blow as she attempts to flee the chaos.
 Harshnag is rendered unconscious by the attack.
