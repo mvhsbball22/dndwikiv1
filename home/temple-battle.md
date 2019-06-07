@@ -1,5 +1,5 @@
-
 # The battle for The Eye of The All Father
+![Iymrith](/uploads/iymrith.jpg "Iymrith")
 Savien, Rath and the airship crew rush into the Eye of the All Father where they run into the rest of the party and warn them of the impending dragon attack.
 Delsephine identifies the dragon as Iymrith.
 Iymrith is known as "the doom from the desert" her lair is in the eastern desert.
@@ -13,6 +13,9 @@ they are squaring up to fight, Harshnag equips himself with a large spear in one
 He has instructed us to "stay behind him".
 Identifying that this fight is one that he probably wont win, Harshnag instructs to group to leave him behind.
 The group collectively decides that leaving Harshnag to die alone is not an option. 
+
+![Harshnag](/uploads/harshnag.png "Harshnag")
+
 Iymrith presence in this temple to the giant gods is clearly unacceptable to Harshnag, and as she begins to damage the walls of this holy place, he becomes enraged, readying to attack. 
 Harshnag approaches Iymreth with Orel and Rath following closely behind.
 Iymrith animates a large chunk of granite that she has removed from the temple wall, it takes flight as a gargoyle. 
@@ -30,6 +33,9 @@ Iymrith prepares a second breath attack, this time dealing a massive blow to Lia
 Harshnag and Orel remain standing, but Lia is knocked unconscious.
 Orel returns Lia to consciousness with a second 'Prayer of Healing'.
 Angered that we did not heed his warning, and identifying the futility of his attacks on Iymrith, Harshnag uses his axe to strike the central statue causing the temple to begin to crumble around us.
+
+![Eye Of The All Father](/uploads/eye-of-the-all-father.jpg "Eye Of The All Father")
+
 Harshnag yells out to the party "FLEE -- your fate lies elsewhere" and then turns to Iymrith, and looses his spear into the Dragon's side.
 Harshnag grapples Iymrith, and it becomes apparent that he means to pin the dragon in place and sacrifice himself so that she may also die beneath the rubble.
 The party begins to take significant damage from chunks of falling rubble, and it is clear that staying in this place means certain death.
