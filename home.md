@@ -1,8 +1,15 @@
-<!-- TITLE: D&D Chez Stickney -->
+---
+title: D&D Chez Stickney
+description: 
+published: true
+date: 2019-09-15T20:21:59.650Z
+tags: 
+---
+
 <!-- SUBTITLE: Saving the Forgotten Realms One Stumble at a Time -->
 
 ## Characters
-[Aloine](home/aloine)
+[Aloine](/aloine)
 [Lia](home/lia)
 [Largo](home/largo)
 [Orel](home/orel)
