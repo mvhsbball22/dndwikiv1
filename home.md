@@ -2,7 +2,7 @@
 title: D&D Chez Stickney
 description: 
 published: true
-date: 2019-09-15T22:50:12.414Z
+date: 2019-09-15T23:50:09.026Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 ## Characters
 [Aloine](aloine)
-[Lia](home/lia)
+[Lia](lia)
 [Largo](home/largo)
 [Orel](home/orel)
 [Savien](home/savien)
