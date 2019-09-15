@@ -2,7 +2,7 @@
 title: D&D Chez Stickney
 description: 
 published: true
-date: 2019-09-15T20:50:20.557Z
+date: 2019-09-15T22:50:12.414Z
 tags: 
 ---
 
@@ -37,11 +37,12 @@ tags:
 [Yartar](home/yartar)
 [Everlund](/home/everlund)
 [The Eye of the All-Father](home/ice-cave)
-[The Airship](home/airship)
+[The Airship](/airship)
 [The Search for Giant Relics](home/relic-search)
 [Silverymoon](home/silverymoon)
 [Return to the All-Father](home/ice-cave2)
 [Giants Fall](home/temple-battle)
+
 ## People and Places
 [Harshnag](/people/harshnag)
 [Zi Liang](/people/zi_liang) 
