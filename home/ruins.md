@@ -1,5 +1,10 @@
-<!-- TITLE: Ruins -->
-<!-- SUBTITLE: The Genesis of the Crew -->
+---
+title: The Ruins
+description: 
+published: true
+date: 2019-09-16T01:00:57.716Z
+tags: 
+---
 
 ## The Ruins
 The group walked toward a town in shambles.  Largo climbed on a tree to see whether danger lurked.  Eventually, everyone got over the ramparts and started exploring.
