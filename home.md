@@ -2,7 +2,7 @@
 title: D&D Chez Stickney
 description: 
 published: true
-date: 2019-09-15T23:50:09.026Z
+date: 2019-09-16T00:57:37.281Z
 tags: 
 ---
 
@@ -11,37 +11,37 @@ tags:
 ## Characters
 [Aloine](aloine)
 [Lia](lia)
-[Largo](home/largo)
-[Orel](home/orel)
-[Savien](home/savien)
-[Steve](home/steve)
-[Rath](home/rath)
+[Largo](largo)
+[Orel](orel)
+[Savien](savien)
+[Steve](steve)
+[Rath](rath)
 
 ## Story
 ### The Beginning
-[Ruins and Boulders](home/ruins)
-[The Cave](home/cave)
-[Blasingdell](home/blasingdell)
-[The Stone Tooth](home/stonetooth)
-[Khundrukar](home/khundrukar)
-[Goldenfields](home/goldenfields)
+[Ruins and Boulders](ruins)
+[The Cave](cave)
+[Blasingdell](blasingdell)
+[The Stone Tooth](stonetooth)
+[Khundrukar](khundrukar)
+[Goldenfields](goldenfields)
 
 
 ### The Middle
-[Prince Olthanas's Cloud Castle](home/cloud-castle)
-[Party in Waterdeep](home/waterdeep)
-[Red Larch](home/red_larch)
-[Westbridge](home/westbridge)
-[Kryptgarten Forest](home/kryptgarten)
-[Triboar](home/triboar)
-[Yartar](home/yartar)
-[Everlund](/home/everlund)
-[The Eye of the All-Father](home/ice-cave)
-[The Airship](/airship)
-[The Search for Giant Relics](home/relic-search)
-[Silverymoon](home/silverymoon)
-[Return to the All-Father](home/ice-cave2)
-[Giants Fall](home/temple-battle)
+[Prince Olthanas's Cloud Castle](cloud-castle)
+[Party in Waterdeep](waterdeep)
+[Red Larch](red_larch)
+[Westbridge](westbridge)
+[Kryptgarten Forest](kryptgarten)
+[Triboar](triboar)
+[Yartar](yartar)
+[Everlund](everlund)
+[The Eye of the All-Father](ice-cave)
+[The Airship](airship)
+[The Search for Giant Relics](relic-search)
+[Silverymoon](silverymoon)
+[Return to the All-Father](ice-cave2)
+[Giants Fall](temple-battle)
 
 ## People and Places
 [Harshnag](/people/harshnag)
