@@ -1,7 +1,10 @@
-<!-- TITLE: Snurrevin -->
-<!-- SUBTITLE: A quick summary of Snurrevin -->
-
-# Header
+---
+title: Snurrevin
+description: 
+published: true
+date: 2019-09-16T01:21:50.983Z
+tags: 
+---
 
 ![Snurrevin](/uploads/snurrevin.jpg "Snurrevin")
 
