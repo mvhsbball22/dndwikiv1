@@ -1,3 +1,11 @@
+---
+title: Battleground Map
+description: 
+published: true
+date: 2019-09-16T01:13:18.993Z
+tags: 
+---
+
 <!-- TITLE: Battleground Map -->
 <!-- SUBTITLE: A map of ancient battlegrounds, rumored to contain important relics -->
 
