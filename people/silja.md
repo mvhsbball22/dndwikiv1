@@ -1,5 +1,10 @@
-<!-- TITLE: Silja -->
-<!-- SUBTITLE: Dwarf Archaeologist -->
+---
+title: Silja the Archaeologist
+description: 
+published: true
+date: 2019-09-16T01:21:24.013Z
+tags: 
+---
 
 ### Silja the Archaeologist
 
