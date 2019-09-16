@@ -1,5 +1,10 @@
-<!-- TITLE: Ice Cave -->
-<!-- SUBTITLE: Spiders, Dragons, and Boulders: Oh My! -->
+---
+title: Eye of the Oldfather
+description: 
+published: true
+date: 2019-09-16T01:06:34.735Z
+tags: 
+---
 
 ### Entry
 After a long journey from Everlund, the group led by [Harshnag](/people/harshnag) arrived at a cave.  Upon entry, they were confronted by a group of people - who, unfortunately, did not speak common, giant, or abyssal.
@@ -20,10 +25,10 @@ Deep in the ice caces, Large, Steve, and Orel run into multiple groups of small 
 
 The group finds a large room with a giant ice spider and several smaller spiders protecting a brood of (presumably) sipder eggs.  Heroically, Orel charges to the middle of the room, aiming to smash a natural stone column and disrupt the extensive protective icy web system.  His vision (perhaps clouded from his earlier ice cloud encounter) betrayed him, and he misjudged the location of the large spider, who blasted him with a coating of ice, freezing him in stone.  Largo and Steve rush into the room and push the block back into the tunnels.  Largo heats up his cast iron pan and smashes Orel free.  Discretion being the better part of valor, the three continue to explore the tunnels, leaving the spider queen to her machinations.
 
-Further exploration reveals an opening to the side of the mountain housing the cave system.  Largo and Orel leave some souvenirs of their visit...  Further search uncovers a second large chamber and three blocks of ice (an exsanguinated mountain goat, an unfortunate halfling mountain climber, and surprisingly a living but frozen dwarf woman).  Orel carries the dwarf woman through the tunnels.
+Further exploration reveals an opening to the side of the mountain housing the cave system.  Largo and Orel leave some souvenirs of their visit...  Further search uncovers a second large chamber and three blocks of ice (an Exsanguinated Mountain Goat, an unfortunate halfling mountain climber, and surprisingly a living but frozen dwarf woman).  Orel carries the dwarf woman through the tunnels.
 
 #### Savien, Lia, and Aloine (and Hermes)
-Meanwhile, Savien, Lia, and Aloine step into a tunnel, unwittingly triggering a giant boulder to crash through the room.  
+Meanwhile, Savien, Lia, and Aloine step into a tunnel, unwittingly triggering a giant boulder to Crash Through the room.  
 
 ### Short reunion
 The group meets back together in the main room -- and they are shortly joined by the Uthgardt people the group met when first arriving at the temple, who are marching into the dungeon while chanting in a language that nobody understands.  Orel wants to embrace his new role as chief of the tribe and immediately takes the lead, teaching his people new/more contemporary dances.  A disagreement erupts, with [Harshnag](/people/harshnag) vehemently forbidding any of the Uthgardt from staying in the halls, which seem to be sacred to him.  Orel, Largo and Steve accompany the tribespeople to the entry hallway and proceed to feast on goat while Harshnag, Lia, Aloine and Savien turn in next to the fire in the dining hall. 
@@ -40,7 +45,7 @@ Steve wraps a rope around his midsection, hands one end to and darts into the la
 Once they reach the safety of the statue room, Silja grabs her large book, an apparent necessity to translate the runic giant language.  Steve pockets the remainder of the pack, including some halfling rations.
 
 ### Statue room
-Silja translates for us - the runs on the portal are the type of giants: frost giant, storm giant, etc.
+Silja translates for us - the runs on the portal are the type of giants: Frost Giant, storm giant, etc.
 The group puts their heads together, trying to break the code of how to get the portal to open. After several failed attempts, Harshnag picks up the axe held by the front giant statue and touches it to the rune of the same name.  As soon as the axe comes into contact with the wall, the frosty portal begins to change.
 
 ### Frosty portal
