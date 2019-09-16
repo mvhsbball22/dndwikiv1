@@ -1,5 +1,10 @@
-<!-- TITLE: Largo -->
-<!-- SUBTITLE: The Chef -->
+---
+title: Largo
+description: 
+published: true
+date: 2019-09-16T00:58:33.036Z
+tags: 
+---
 
 ## Largo Goodbarrel
 Largo lived in Goldenfields, studying cuisine and close-quarters manipulation of meat.
