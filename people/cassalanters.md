@@ -1,5 +1,10 @@
-<!-- TITLE: The Cassalanters -->
-<!-- SUBTITLE: A quick summary of the Cassalanters -->
+---
+title: The Cassalanters
+description: 
+published: true
+date: 2019-09-16T01:17:28.671Z
+tags: 
+---
 
 The Cassalanter noble house of Waterdeep is among one of the richest families within the city, and by extension, one of the richest in the entire region of the Sword Coast. 
 They made their fortune in banking, money-lending, real estate, and rumor-mongering for the highest payer. As of this generation, Ohrl Cassalanter has made philanthropy a larger focus of the Cassalanter empire. 
@@ -14,5 +19,3 @@ Myrna Cassalanter - youngest child and only daughter of Ohrl and Sylull.
 Lia Cassalanter - Ohrl's half-elf sister
 
 Victoro and Ammalia Cassalanter + twin children ????
-
-# Header
