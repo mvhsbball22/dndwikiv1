@@ -1,3 +1,11 @@
+---
+title: Battle for the Eye of the Allfather
+description: 
+published: true
+date: 2019-09-16T01:11:03.838Z
+tags: 
+---
+
 # The battle for The Eye of The All Father
 
 Savien, Rath and the airship crew rush into the Eye of the All Father where they run into the rest of the party and warn them of the impending dragon attack.
@@ -22,7 +30,7 @@ Orel manages to land two extremely effective '*Guiding Bolts'* on Iymreth while 
 As an odor of ozone is noticed by Aloine, Iymrith opens her mouth wide and prepares a breath attack directed at Harshnag. 
 Much like a completed circut, an arc of electrical current passes through Harshnag dealing a massive blow, but he reamins standing.
 Aloine continues to loose arrows at Iymrith with mixed results.
-In the backlines: Largo, Savien and Steve are contending with the granite gargoyle. The construct dives toward Savien -- who has positioned himself within the cowl of the All-Father at the center of the room. 
+In the backlines: Largo, Savien and Steve are contending with the Granite Gargoyle. The construct dives toward Savien -- who has positioned himself within the cowl of the All-Father at the center of the room. 
 Working together, they are able to destroy the construct with several well placed arrows, and some psychic spell damage. 
 Lia moves toward Iymreth to aid Orel, Rath and Harshnag.
 Iymrith lets forth a horrifying roar, leaving Rath and Lia 'frightened' and unable to willfully move towards the her.
@@ -34,7 +42,7 @@ Angered that we did not heed his warning, and identifying the futility of his at
 
 Harshnag yells out to the party **"FLEE -- your fate lies elsewhere"** and then turns to Iymrith, and looses his spear into the Dragon's side.
 Harshnag grapples Iymrith, and it becomes apparent that he means to pin the dragon in place and sacrifice himself so that she may also die beneath the rubble.
-The party begins to take significant damage from chunks of falling rubble, and it is clear that staying in this place means certain death.
+The party begins to take significant damage from chunks of falling rubble, and it is clear that staying in this place means Certain Death.
 Rath runs for Harshnag's axe, realizing that it's well over 300 lbs, he begins to drag it at a snails pace while taking damage from the falling granite.
 Largo notices Rath and moves to help him with the axe, between the two of them they are able to move the massive weapon at a much more reasonable pace.
 Savien remains in the cowl of the All Father and watches in horror as Harshnag is pelted by falling rubble he casts *'Heat Metal*' on the mithril spear head which is deep inside Iymrith, causing her to roar in pain. 
