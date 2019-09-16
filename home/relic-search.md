@@ -1,5 +1,10 @@
-<!-- TITLE: Relic Search -->
-<!-- SUBTITLE: Trying to find a way to meet the giant council -->
+---
+title: The Great Relic Search
+description: 
+published: true
+date: 2019-09-16T01:08:39.862Z
+tags: 
+---
 
 ## Raven Rock
 Giant mounds, the middle with a huge sculpture of a raven.
